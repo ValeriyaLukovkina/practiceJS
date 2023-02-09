@@ -1,0 +1,112 @@
+h2 {
+    font-size: 28px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-weight: normal;
+}
+input {
+    min-height: 30px;
+    display: block;
+    width: 400px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+button {
+    font-size: 18px;
+    min-height: 30px;
+}
+
+.colored {
+    color: red;
+}
+
+.cross {
+    text-decoration: line-through;
+}
+
+.bolded {
+    font-weight: bold;
+}
+
+.green {
+    border: green 2px solid;
+}
+
+.red {
+    border: red 2px solid;
+}
+
+.task38 .elem1 {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    margin: 0, auto;
+}
+.task38 .elem2 {
+    background-color: blue;
+    width: 140px;
+    height: 140px;
+    margin: 30px;
+}
+.task38 .elem3 {
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    margin: 30px;
+}
+
+.task40 .elem1 {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    margin: 0, auto;
+}
+.task40 .elem2 {
+    background-color: blue;
+    width: 140px;
+    height: 140px;
+    margin: 30px;
+}
+.task40 .elem3 {
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    margin: 30px;
+}
+
+.bgcred {
+    background-color: red;
+}
+
+.bgcgreen {
+    background-color: green;
+}
+
+.bgcyellow {
+    background-color: yellow;
+}
+
+.task72 td,
+.task73 td,
+.task74 td,
+.task75 td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+}
+
+.task72 .colorTask,
+.task74 .colorTask,
+.task75 .colorTask {
+    background-color: red;
+}
+
+.task72 .colorTask2,
+.task74 .colorTask2 {
+    background-color: green;
+}
