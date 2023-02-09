@@ -1,1 +1,1 @@
-# practiceJS
+1) [«Task JS. Part 1!»](./Tasks_part1/)
