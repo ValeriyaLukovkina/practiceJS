@@ -5,3 +5,4 @@ https://valeriyalukovkina.github.io/practiceJS/
 2) [«Task JS. Part 2!»](./Tasks_part2/)
 3) [«Task JS. Part 3!»](./Tasks_part3/)
 4) [«Calculator figure»](./calculatorFigure/)
+5) [«Drop-dowm list»](./dropDownList/)
