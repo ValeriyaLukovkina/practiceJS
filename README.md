@@ -1,4 +1,4 @@
-Practice JS
+Practice JS:
 https://valeriyalukovkina.github.io/practiceJS/
 
 1) [«Task JS. Part 1!»](./Tasks_part1/)
