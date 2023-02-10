@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrp {
+    margin: 20px;
+}
+.title {
+    font-size: 24px;
+    margin: 0 0 10px 0;
+}
+
+.square_block {
+    width: 100px;
+}
+
+.inp {
+    width: 50px;
+    border: none;
+    border-bottom: 1px solid transparent;
+    outline: none;
+    text-align: center;
+}
+
+.square_inp {
+    margin-left: 20%;
+}
+
+.inp:focus {
+    border-bottom: 1px solid #999999;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #70dbc0;
+}
+
+.rectangle {
+    width: 150px;
+    height: 100px;
+    background-color: #70dbc0;
+}
+
+.rectangle_block {
+    width: 150px;
+    position: relative;
+}
+
+.rectangle_inp_per {
+    margin-left: 30%;
+}
+
+.rectangle_inp_s {
+    transform: rotate(90deg);
+    position: absolute;
+    top: 56px;
+    right: -37px;
+}
